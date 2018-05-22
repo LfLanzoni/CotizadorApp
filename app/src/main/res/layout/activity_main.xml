@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -14,7 +14,7 @@
         android:text="Cotizacion actual U$S" />
 
     <EditText
-        android:id="@+id/edCotizacion"
+        android:id="@+id/edtCotizacion"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -27,7 +27,7 @@
         android:text="Dolares a comprar" />
 
     <EditText
-        android:id="@+id/edDolaresComprar"
+        android:id="@+id/edtDolaresComprar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -40,7 +40,7 @@
         android:text="Pesos a comprar" />
 
     <EditText
-        android:id="@+id/edPesosComprar"
+        android:id="@+id/edtPesosComprar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
